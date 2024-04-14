@@ -1,4 +1,4 @@
-package proxy_harbor
+package proxyharbor
 
 type Harbor struct {
 }
